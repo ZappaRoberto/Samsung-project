@@ -1,5 +1,5 @@
 # Samsung-project
-Power Point presentation          Anto
+/n Power Point presentation          Anto
 Business Model Canvas             Lorenzo
 Technical feasibility             Nishan, Roberto
 APK                               Roberto
