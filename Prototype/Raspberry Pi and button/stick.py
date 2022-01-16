@@ -5,7 +5,7 @@ Email: nishanchettri@gmail.com
 """
 import os
 import threading
-import urllib.request as urllib2
+import urllib.request as urllib2 #Import urllib library for performing http request
 from gpiozero import Button
 from signal import pause
 import RPi.GPIO as GPIO # Import Raspberry Pi GPIO library
