@@ -1,5 +1,5 @@
 # Samsung project: TheIA
-* Power Point presentation          Anto
+* Power Point presentation          Nishan
 * Business Model Canvas             Lorenzo
 * Technical feasibility             Nishan, Roberto
 * APK                               Roberto
