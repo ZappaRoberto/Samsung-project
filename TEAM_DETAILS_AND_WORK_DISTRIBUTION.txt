@@ -6,5 +6,5 @@
 * Technical feasibility             Nishan, Roberto
 * APK                               Roberto
 * Prototype video/documents         Nishan, Roberto
-* Field of application research     Anto
+* Field of application research     
 * Target research                   Vina
